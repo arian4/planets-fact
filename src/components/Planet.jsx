@@ -84,7 +84,7 @@ export default function Planet() {
                     }
 
                 </div>
-                <div className='basis-1/2 mt-5 lg:mt-0 lg:w-full'>
+                <div className='basis-1/2 hidden md:block mt-5 lg:mt-0 lg:w-full'>
                     <ul className='lg:flex-1'>
                         <li onClick={() => setActiveTab(0)} className={` ${ActiveTab === 0 ? 'active-tab-md':'default-tab'}`}>01 overview</li>
                         <li onClick={() => setActiveTab(1)} className={` ${ActiveTab === 1 ? 'active-tab-md':'default-tab'}`}>02 Internal structure</li>
