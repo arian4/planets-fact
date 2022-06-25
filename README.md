@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Planet Facts - built with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What I used to build this amazing project
+
+- React
+- TailwindCss
+
+Online deployment link : [Planet Facts](https://arian4.github.io/planets-fact/)
 
 ## Available Scripts
 
